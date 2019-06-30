@@ -1,6 +1,8 @@
 # NewsFeedWebsite
 Information Architecture
+
 Site Map
+
 ●	Home Page
 Admin Login Fields
 1.	Username

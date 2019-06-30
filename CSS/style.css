@@ -1,0 +1,45 @@
+body {
+     margin: 0;
+  	font-family: Arial, Helvetica, sans-serif;
+  }
+.header{
+	background-color: #333;
+  	position: relative;
+    height:70px;
+  	width: 100%;
+}
+.login{
+	float: right;
+	margin-right: 10px;
+	margin-top: 20px;
+}
+
+  .footer{
+        	background-color: navy ;
+        	position: fixed;
+        	height: 100px;
+          width: 100%;
+          margin-bottom: 0;
+          bottom: 0;
+
+        }
+.heading {
+
+margin: 0px 0px 0px 0px; 
+
+padding: 0px 0px 0px 0px;
+
+text-align: center ;
+}
+h2{
+	color : blue;
+	font-size: 400%;
+}
+
+h6{
+	color: black;
+	font-family: calibiri; 
+}
+h3{
+	color: blue;
+}

@@ -1,0 +1,28 @@
+body {
+     margin: 0;
+  	font-family: Arial, Helvetica, sans-serif;
+  }
+.header{
+	background-color: #333;
+  	position: relative;
+  	width: 100%;
+}
+.form{
+	border-radius: 5px;
+	background-color: #f2f2f2;
+	position: relative;
+	width:550px;
+	height:450px;
+	border: 1px solid black;
+}
+tr{
+	font-size: 20px;
+}
+input{
+	font-size: 20px;
+}
+.error_form {
+	font-size: 15px;
+	font-family: Arial;
+	color: #FF0052;
+}

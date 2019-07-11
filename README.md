@@ -1,4 +1,4 @@
-# NewsFeedWebsite
+# School_Of_Education
 # Information Architecture
 
 ●	Home Page
